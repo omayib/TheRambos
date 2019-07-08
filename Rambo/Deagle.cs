@@ -24,15 +24,5 @@ namespace Rambo
             }
 
         }
-
-        public void zoomIn()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void zoomOut()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
